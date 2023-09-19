@@ -18,4 +18,13 @@ void PluginInit()
 {
     // Your code here
     logger.info("Hello, world!");
+    logger.info("Hello, world!");
+    logger.info("Hello, world!");
+    logger.info("Hello, world!");
+    logger.info("Hello, world!");
+    logger.info("Hello, world!");
+    logger.info("Hello, world!");
+    logger.info("Hello, world!");
+    logger.info("Hello, world!");
+    logger.info("Hello, world!");
 }
